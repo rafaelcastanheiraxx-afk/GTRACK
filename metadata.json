@@ -1,0 +1,7 @@
+{
+  "name": "GTRACK - Health Monitoring",
+  "description": "A high-fidelity HealthTech prototype for personal health monitoring with Material 3 design, offline-first logic, and ethical AI observational insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
